@@ -1,7 +1,7 @@
 {
   "name": "todobackend-specs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Todobackend Acceptance Tests",
   "main": "app.js",
   "scripts": {
     "test": "mocha"
